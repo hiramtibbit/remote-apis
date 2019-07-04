@@ -1,0 +1,11 @@
+Welcome to TextExpander!
+
+Now you can compose emails, tweets, and other text using your own custom snippet abbreviations. Try it out now -- tap here to bring up the keyboard:
+Thank you very much!
+Then type "tyvm" (without the quotes).
+
+"Thank you very much!" will appear automatically.
+
+Expand a formatted or fill-in snippet and send it to Mail or another app using the Share button.
+
+You can also Copy and Paste your text into another app.
